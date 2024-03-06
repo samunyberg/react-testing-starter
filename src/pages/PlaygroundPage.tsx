@@ -1,7 +1,7 @@
-import Onboarding from "../components/Onboarding";
+import CategoryList from "../components/CategoryList";
 
 const PlaygroundPage = () => {
-  return <Onboarding />;
+  return <CategoryList />;
 };
 
 export default PlaygroundPage;
